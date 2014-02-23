@@ -1,53 +1,64 @@
-﻿.header{
-    background:#000;
-}
-.searchBox{
-    margin-top: 35px
-}
-.magnifying-glass
-{
- font-size: 4em; /* This controls the size. */
- display: inline-block;
- width: 0.4em;
- height: 0.4em;
- border: 0.1em solid  #ff8b11;
- position: relative;
- border-radius: 0.35em;
- opacity: 0.6;
- top:5px;
- z-index: 3;
-}
-.magnifying-glass::before
-{
- content: "";
- display: inline-block;
- position: absolute;
- right: -0.25em;
- bottom: -0.1em;
- border-width: 0;
- background: #ff8b11;
- width: 0.25em;
- height: 0.1em;
- -webkit-transform: rotate(35deg);
-    -moz-transform: rotate(35deg);
-     -ms-transform: rotate(35deg);
-      -o-transform: rotate(35deg);
+﻿.header {
+    background: #000;
 }
 
-#q{
- color:#555; 
- position:absolute;  
- padding-right:40px; 
- left:-5px; 
- z-index:2; 
- opacity:.4;
+.searchBox {
+    margin-top: 35px;
 }
 
-.headerName{
-    height:20px;
+.magnifying-glass {
+    font-size: 4em; /* This controls the size. */
+    display: inline-block;
+    width: 0.4em;
+    height: 0.4em;
+    border: 0.1em solid #ff8b11;
+    position: relative;
+    border-radius: 0.35em;
+    opacity: 0.6;
+    top: 5px;
+    z-index: 3;
 }
-.headerWarning{
-    margin-top:40px;
-    margin-right:30px;
-    float:right;
+
+    .magnifying-glass::before {
+        content: "";
+        display: inline-block;
+        position: absolute;
+        right: -0.25em;
+        bottom: -0.1em;
+        border-width: 0;
+        background: #ff8b11;
+        width: 0.25em;
+        height: 0.1em;
+        -webkit-transform: rotate(35deg);
+        -moz-transform: rotate(35deg);
+        -ms-transform: rotate(35deg);
+        -o-transform: rotate(35deg);
+    }
+
+#q {
+    color: #555;
+    position: absolute;
+    padding-right: 40px;
+    left: -5px;
+    z-index: 2;
+    opacity: .4;
+}
+
+.headerName {
+    height: 20px;
+    font-size: x-large;
+    float: right;
+    margin-top: 10px;
+}
+
+.headerWarning {
+    margin-top: 50px;
+    margin-right: 30px;
+    float: right;
+}
+
+.mailnumber {
+    padding: .1em .2em;
+    font-size: .6em;
+    vertical-align: text-top;
 }
