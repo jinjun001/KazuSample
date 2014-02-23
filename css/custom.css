@@ -42,3 +42,12 @@
  z-index:2; 
  opacity:.4;
 }
+
+.headerName{
+    height:20px;
+}
+.headerWarning{
+    margin-top:40px;
+    margin-right:30px;
+    float:right;
+}
