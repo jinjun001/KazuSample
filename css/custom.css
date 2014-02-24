@@ -62,3 +62,7 @@
     font-size: .6em;
     vertical-align: text-top;
 }
+
+.navbar-inverse .navbar-nav > li > a.text-warning {
+    color: #FF8910;
+}
