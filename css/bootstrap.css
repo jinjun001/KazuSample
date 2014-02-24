@@ -315,6 +315,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  width: 100%;
 }
 .img-rounded {
   border-radius: 6px;
@@ -3647,7 +3648,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (min-width: 768px) {
   .navbar {
-    border-radius: 4px;
+    margin-bottom: 0px
   }
 }
 @media (min-width: 768px) {
