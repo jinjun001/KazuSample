@@ -3647,11 +3647,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 20px;
   border: 1px solid transparent;
 }
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {*/
   .navbar {
     margin-bottom: 0px
   }
-}
+/*}*/
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
@@ -3792,7 +3792,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-bottom: 10px;
   line-height: 20px;
 }
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
@@ -3813,8 +3813,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
   }
-}
-@media (min-width: 768px) {
+}*/
+/*@media (min-width: 768px) {*/
   .navbar-nav {
     float: right;
     margin: 0;
@@ -3829,15 +3829,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
   }
-}
-@media (min-width: 768px) {
+/*}*/
+/*@media (min-width: 768px) {*/
   .navbar-left {
     float: left !important;
   }
   .navbar-right {
     float: right !important;
   }
-}
+/*}*/
 .navbar-form {
   padding: 10px 15px;
   margin-top: 8px;
