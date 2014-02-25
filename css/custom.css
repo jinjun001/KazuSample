@@ -76,17 +76,17 @@
 
 .statisticsdata {
     position: relative;
-    top: 250px;
+    top: 210px;
     left: 50%;
 }
 
 .circle {
-    width: 1em;
-    height: 1em;
-    border-radius: .5em;
+    width: .6em;
+    height: .6em;
+    border-radius: .3em;
     background: #FF8910;
     float: left;
-    margin-right: 4.5em;
+    margin-right: 5.3em;
 }
     .circle:after {
         content: "";
@@ -96,8 +96,16 @@
         border-left-style: none;
         border-right-style: none;
         border-bottom-style: none;
-        margin-top: .5em;
-        margin-left:.5em;
-        width: 5em;
+        margin-top: .3em;
+        margin-left:.3em;
+        width: 6em;
         border-top-width: .1em;
     }
+.statisticlable{
+    color:#999;
+    font-weight:bold;
+}
+.statisticvalue{
+    color:#FF8910;
+    font-weight:bold;
+}
