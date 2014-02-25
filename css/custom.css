@@ -68,8 +68,14 @@
 }
 
 .intro {
-background: url(/img/home_intro.png) 0 20px no-repeat;
-height: 420px;
-margin-bottom: 20px;
-padding-top: 20px;
+    background: url(/img/home_intro.png) 0 20px no-repeat;
+    height: 420px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.statisticsdata {
+    position: relative;
+    top: 250px;
+    left: 60%;
 }
