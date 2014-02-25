@@ -77,5 +77,27 @@
 .statisticsdata {
     position: relative;
     top: 250px;
-    left: 60%;
+    left: 50%;
 }
+
+.circle {
+    width: 1em;
+    height: 1em;
+    border-radius: .5em;
+    background: #FF8910;
+    float: left;
+    margin-right: 4.5em;
+}
+    .circle:after {
+        content: "";
+        float: left;
+        border-color: #FF8910;
+        border-style: solid;
+        border-left-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        margin-top: .5em;
+        margin-left:.5em;
+        width: 5em;
+        border-top-width: .1em;
+    }
