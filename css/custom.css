@@ -134,9 +134,9 @@
 .kzCell{
     display: table-cell;
     border: 1px solid #d9d9d9;
-    width: 120px;
-    height: 220px;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    height: 300px;
+    border-left:0;
+}
+.kzRow .kzCell:last-child{
+    border-right:0;
 }
