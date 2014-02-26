@@ -108,3 +108,35 @@
     color:#FF8910;
     font-weight:bold;
 }
+.groupBox{
+    border:solid 1px #d9d9d9;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.groupHeader{
+    text-align:center;
+    color:#7d7d7d;
+    font-weight:bold;
+    font-size: large;
+}
+.kzTable{
+    display: table;
+    border-collapse: collapse;
+    width:100%;
+   
+}
+.kzRow{
+    overflow: hidden;
+    width: 120px;
+    display:table-row;
+}
+.kzCell{
+    display: table-cell;
+    border: 1px solid #d9d9d9;
+    width: 120px;
+    height: 220px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
