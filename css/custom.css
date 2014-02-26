@@ -160,7 +160,6 @@
 .boxDesc{
     color: #7D7D7D;
     font-weight: bold;
-    margin: 10px;
     font-size: small;
 }
 
@@ -208,4 +207,19 @@ background-position: -272px -136px;
 }
 [class*=" icon-"]:hover{
     opacity:1;
+}
+
+.highlightBlue{
+    color: #205F82;
+    font-weight: bold;
+}
+.detailbox{
+    margin: 10px;
+}
+.userName{
+    color:#7c7c7c;
+    font-weight:bold;
+}
+.priceEndTime{
+    float:right;
 }
