@@ -87,6 +87,7 @@
     background: #FF8910;
     margin-right: 5.3em;
 }
+
     .circle:after {
         content: "";
         float: left;
@@ -96,48 +97,63 @@
         border-right-style: none;
         border-bottom-style: none;
         margin-top: .3em;
-        margin-left:.3em;
+        margin-left: .3em;
         width: 6em;
         border-top-width: .1em;
     }
-.statisticlable{
-    color:#999;
-    font-weight:bold;
+
+.statisticlable {
+    color: #999;
+    font-weight: bold;
 }
-.statisticvalue{
-    color:#FF8910;
-    font-weight:bold;
+
+.statisticvalue {
+    color: #FF8910;
+    font-weight: bold;
 }
-.groupBox{
-    border:solid 1px #d9d9d9;
+
+.groupBox {
+    border: solid 1px #d9d9d9;
     margin-top: 3px;
     margin-bottom: 3px;
 }
 
-.groupHeader{
-    text-align:center;
-    color:#7d7d7d;
-    font-weight:bold;
+.groupHeader {
+    text-align: center;
+    color: #7d7d7d;
+    font-weight: bold;
     font-size: large;
 }
-.kzTable{
+
+.kzTable {
     display: table;
     border-collapse: collapse;
-    width:100%;
+    width: 100%;
     border-left: 1px solid;
     border-right: 1px solid;
 }
-.kzRow{
+
+.kzRow {
     overflow: hidden;
     width: 120px;
-    display:table-row;
+    display: table-row;
 }
-.kzCell{
+
+.kzCell {
     display: table-cell;
     border: 1px solid #d9d9d9;
-    height: 300px;
-    border-left:0;
+    border-left: 0;
 }
-.kzRow .kzCell:last-child{
-    border-right:0;
+
+.kzRow .kzCell:last-child {
+    border-right: 0;
+}
+
+.kzCellQuartorWidth {
+    Width: 25%;
+}
+
+.kzImage {
+    margin: 15px auto;
+    width: auto;
 }
