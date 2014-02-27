@@ -52,7 +52,7 @@ ul li, ol li{
 
 .headerName {
     height: 20px;
-    font-size: x-large;
+    font-size: large;
     float: right;
     margin-top: 10px;
 }
@@ -64,8 +64,9 @@ ul li, ol li{
 }
 
 .mailnumber {
-    padding: .1em .2em;
-    font-size: .6em;
+    display: inline-block;
+    padding: .1em .1em;
+    font-size: medium;
     vertical-align: text-top;
 }
 
