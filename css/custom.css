@@ -17,10 +17,9 @@ ul li, ol li{
     display: inline-block;
     width: 0.4em;
     height: 0.4em;
-    border: 0.1em solid #ff8b11;
+    border: 0.1em solid #ff8910;
     position: relative;
     border-radius: 0.35em;
-    opacity: 0.6;
     top: 5px;
     z-index: 3;
 }
@@ -32,7 +31,7 @@ ul li, ol li{
         right: -0.25em;
         bottom: -0.1em;
         border-width: 0;
-        background: #ff8b11;
+        background: #ff8910;
         width: 0.25em;
         height: 0.1em;
         -webkit-transform: rotate(35deg);
@@ -41,13 +40,14 @@ ul li, ol li{
         -o-transform: rotate(35deg);
     }
 
-#q {
-    color: #555;
+.searchInput {
+    color: #ff8910;
     position: absolute;
     padding-right: 40px;
     left: -5px;
     z-index: 2;
-    opacity: .4;
+    background: #000;
+    border: solid 2px #ff8910;
 }
 
 .headerName {
