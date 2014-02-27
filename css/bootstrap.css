@@ -276,7 +276,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #d8d8d8;
+  color: #999;
   background-color: #fff;
 }
 input,
@@ -288,13 +288,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #428bca;
+  color:  #4e7fd1;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #2a6496;
-  text-decoration: underline;
+  color: #4e7fd1;
 }
 a:focus {
   outline: thin dotted;
