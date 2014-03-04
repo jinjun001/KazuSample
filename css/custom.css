@@ -280,3 +280,10 @@ background-position: -918px 0px;
     background-position: 0px;
     padding-left: 20px;
 }
+.blueTitle{
+    text-align: left;
+    color: #29a2cf;
+    font-weight: bold;
+    font-size: large;
+    padding-left:1em;
+}
