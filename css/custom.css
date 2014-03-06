@@ -108,6 +108,19 @@ ul li, ol li{
         width: 6em;
         border-top-width: .1em;
     }
+    .circle.longW:after {
+        content: "";
+        float: left;
+        border-color: #FF8910;
+        border-style: solid;
+        border-left-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        margin-top: .3em;
+        margin-left: .3em;
+        width: 20em;
+        border-top-width: .1em;
+    }
 
 .statisticlable {
     color: #999;
@@ -286,4 +299,33 @@ background-position: -918px 0px;
     font-weight: bold;
     font-size: large;
     padding-left:1em;
+}
+.triangleLi{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+.triangleLi >li{
+    padding-left: 1em; 
+    text-indent: -.7em;
+}
+.triangleLi >li:before {
+    content: "▶ ";
+    color: #999; /* or whatever color you prefer */
+}
+.halfGroup{
+    width:50%;
+    float:left;
+    padding:10px;
+}
+.left100w{
+    width:100%;float:left
+}
+.carddetailLeft{
+    text-align: left;
+    color: #7D7D7D;
+    font-weight: bold;
+    font-size: large;
+    float:left;
+    width:100%
 }
