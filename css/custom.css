@@ -327,7 +327,10 @@ background-position: -918px 0px;
     font-weight: bold;
     font-size: large;
     float:left;
-    width:100%
+    width:100%;
+    margin-bottom:0;
+    border-bottom: 0;
+    padding: .3em;
 }
 .floatLeft33W{
     float:left;
@@ -336,4 +339,9 @@ background-position: -918px 0px;
     margin-left: .25%;
     margin-top: 2px;
     margin-bottom: 2px;
+}
+.floatLeft100WTop0{
+    width: 100%;
+    float: left;
+    margin-top: 0;
 }
