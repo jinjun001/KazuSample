@@ -73,24 +73,14 @@
                 </div>
                 <div class="kzTable" style="border:0">
                     <div class="kzRow">
-                        <div class="kzCell kzCellQuartorWidth">
+                        <div ng-repeat="subbox in box.cardBoxes" class="kzCell kzCellQuartorWidth">
                             <img class="img-responsive kzImage" src="/img/thumbA.jpg" />
                             <div class="detailbox">
-                                <div class="highlightBlue">2012-13 panini nba immaculate basketball box</div>
-                                <span class="pull-right"><i class="icon-light-grey icon-eye-open"></i> 691</span>
-                                <span class="pull-right"><i class="icon-light-grey icon-comment"></i> 10</span>
+                                <div class="highlightBlue">{{subbox.name}}</div>
+                                <span class="pull-right"><i class="icon-light-grey icon-eye-open"></i>{{subbox.visitorsNum}}</span>
+                                <span class="pull-right"><i class="icon-light-grey icon-comment"></i> {{subbox.commentsNum}}</span>
                             </div>
-                        </div>
-                        <div class="kzCell kzCellQuartorWidth">
-                            <img class="img-responsive kzImage" src="/img/thumbB.jpg" />
-                            <div class="detailbox">
-                                <div class="highlightBlue">英超2013正式版球衣卡阿森纳阿尔特塔</div>
-                                <span class="pull-right"><i class="icon-light-grey icon-eye-open"></i> 691</span>
-                                <span class="pull-right"><i class="icon-light-grey icon-comment"></i> 10</span>
-                            </div>
-                        </div>
-                        <div class="kzCell kzCellQuartorWidth">3</div>
-                        <div class="kzCell kzCellQuartorWidth">3</div>
+                        </div>                        
                     </div>
                 </div>
             </div>
