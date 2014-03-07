@@ -1,0 +1,170 @@
+[
+        {
+            "_id": 1,
+            "name": "Panini",
+            "cardBoxes": [
+                {
+                    "_id": 1,
+                    "name": "2013-14 Panini Prizm Hobby Box 1",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 2,
+                    "name": "2013-14 Panini Prizm Hobby Box 2",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 3,
+                    "name": "2013-14 Panini Prizm Hobby Box 3",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 4,
+                    "name": "2013-14 Panini Prizm Hobby Box 4",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+            ]
+        },
+        {
+            "_id": 2,
+            "name": "Upper Deck",
+            "cardBoxes": [
+                {
+                    "_id": 5,
+                    "name": "2013-14 Panini Prizm Hobby Box 5",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 6,
+                    "name": "2013-14 Panini Prizm Hobby Box 6",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 7,
+                    "name": "2013-14 Panini Prizm Hobby Box 7",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 8,
+                    "name": "2013-14 Panini Prizm Hobby Box 8",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+            ]
+        },
+        {
+            "_id": 3,
+            "name": "Fleer",
+            "cardBoxes": [
+                {
+                    "_id": 9,
+                    "name": "2013-14 Panini Prizm Hobby Box 9",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 10,
+                    "name": "2013-14 Panini Prizm Hobby Box 10",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 11,
+                    "name": "2013-14 Panini Prizm Hobby Box 11",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 12,
+                    "name": "2013-14 Panini Prizm Hobby Box 12",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+            ]
+        },
+        {
+            "_id": 4,
+            "name": "Leaf",
+            "cardBoxes": [
+                {
+                    "_id": 13,
+                    "name": "2013-14 Panini Prizm Hobby Box 13",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 14,
+                    "name": "2013-14 Panini Prizm Hobby Box 14",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 15,
+                    "name": "2013-14 Panini Prizm Hobby Box 15",
+                    "image": "20131101213627572826496933.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+                {
+                    "_id": 16,
+                    "name": "2013-14 Panini Prizm Hobby Box 16",
+                    "image": "20131101213627572826496934.png",
+                    "imageWidth": 477,
+                    "imageHeight": 367,
+                    "visitorsNum": 0,
+                    "commentsNum": 0
+                },
+            ]	
+        }
+    ]
