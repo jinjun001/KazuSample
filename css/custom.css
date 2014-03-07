@@ -359,3 +359,6 @@ background-position: -918px 0px;
 .messageBoxUserBox{
     margin:10px 0 0 0
 }
+.cardboxMoreBtn{
+    cursor:pointer;
+}
