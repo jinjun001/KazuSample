@@ -74,7 +74,7 @@
                 <div class="kzTable" style="border:0">
                     <div class="kzRow">
                         <div ng-repeat="subbox in box.cardBoxes" class="kzCell kzCellQuartorWidth">
-                            <img class="img-responsive kzImage" src="/img/thumbA.jpg" />
+                            <img class="img-responsive kzImage" ng-src="{{subbox.image}}" />
                             <div class="detailbox">
                                 <div class="highlightBlue">{{subbox.name}}</div>
                                 <span class="pull-right"><i class="icon-light-grey icon-eye-open"></i>{{subbox.visitorsNum}}</span>
