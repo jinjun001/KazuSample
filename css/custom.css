@@ -362,3 +362,21 @@ background-position: -918px 0px;
 .cardboxMoreBtn{
     cursor:pointer;
 }
+.fix100W{
+    padding:0;
+}
+.newsBar{
+    background:#000000;
+    background:linear-gradient(#000000,#403d38);
+    margin-bottom:5px;
+    padding: 10px 0 0 10px;
+}
+.newsTitle{
+    color: #FF8910;
+    font-size:1.8em;
+    font-weight:bold;
+    margin:10px;
+}
+.newsBarUpdateText{
+    margin: 10px 5px 5px 0;
+}
