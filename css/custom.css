@@ -290,10 +290,13 @@ background-position: -918px 0px;
     margin-bottom: 0;
 }
 .footerLi >li{
-    background-image:url(/img/sqorange.gif);
-    background-repeat:no-repeat;
-    background-position: 0px;
-    padding-left: 20px;
+    padding-left: 1em; 
+    text-indent: -.7em;
+}
+
+.footerLi >li:before {
+    content: "▶ ";
+    color: #ff8910;
 }
 .blueTitle{
     text-align: left;
@@ -313,7 +316,7 @@ background-position: -918px 0px;
 }
 .triangleLi >li:before {
     content: "▶ ";
-    color: #999; /* or whatever color you prefer */
+    color: #999;
 }
 .halfGroup{
     width:50%;
